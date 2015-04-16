@@ -2,16 +2,16 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.phonegap.cupommaster"
+        id        = "com.phonegap.iloc_client"
         version   = "1.1.1"
         versionCode="111"
 >
     <name>
-        Cupom Master
+        Iloc Cliente
     </name>
 
     <description>
-        Cupom Master
+        Iloc Cliente
     </description>
 
     <author href="https://multidadosti.com.br" email="rudi.feijo@multidadosti.com.br">
